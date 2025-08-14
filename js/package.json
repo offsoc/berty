@@ -89,7 +89,7 @@
     "@babel/core": "^7.21.0",
     "@babel/node": "^7.20.7",
     "@babel/preset-typescript": "^7.21.0",
-    "@babel/runtime": "^7.21.0",
+    "@babel/runtime": "^7.28.2",
     "@faker-js/faker": "^6.3.1",
     "@react-native-community/eslint-config": "^2.0.0",
     "@storybook/core-common": "^6.5.16",
